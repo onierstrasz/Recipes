@@ -6,7 +6,7 @@ Here follow several recipes for sourdough bread and grissini.
 ---
 # Pane Casereccio
 
-This is a variant of the "pane di Matera"recipe.
+This is a variant of the "pane di Matera" recipe.
 
 - Sourdough yeast 150 gr
 - Semola flour 350 gr
@@ -18,34 +18,31 @@ This is a variant of the "pane di Matera"recipe.
 Try a smaller loaf with half and half flour and semola
 200 g each flour and semola, 120 g yeast, 240 ml water, 10 g salt
 
-Hydrolyze the flour with a little water taken from the total (of 350 ml) for at least 1 hour, dissolve the salt in a little more water.
+Hydrolyze the flour (but not the semola) with part of the water taken from the total (of 350 ml) for at least 1 hour.
 
-* Q Does "the flour" mean semola and white flour together, or just the white flour. If both, it seems too dry!
+Also dissolve the salt some of the water, and set aside.
 
-Dilute the salt in a bit of the water amd set aside. 
+Mix with the sourdough diluted in the remaining water and sugar, knead well (can use a machine) and then add the diluted salt.
 
-Then mix with the sourdough diluted in the remaining water and sugar, knead well (can use a machine) and then add the diluted salt.
+Then make 3 folds every 1/2 hour in the bowl.
+Can make the folds below (slap and fold). 
 
-Then make 3 folds every 1/2 hour in the bowl and the 4th on the pastry board.
-[Can we skip the board and leave the dough in the bowl overnight?]
-Can fold below (slap and fold). 
+Leave it overnight in the covered bowl room temperature (or in the fridge and in this case in the morning leave it 3 hours out).
 
-Leave it overnight on the pastry board at room temperature (or in the fridge and in this case in the morning leave it 3 hours out).
-
-[I left it out all night on the board, covered with a bowl and it was fine. Perhaps better in the bowl so it won't overflow. ]
-
+In the morning, transfer the dough to a pastry board (dusted with a bit of flour).
 Fold again three times in 30 m intervals.
 NB: fold on top, not below. 
 Shape it on the baking sheet with a bit of semola.
 Let it sit 30 m and then cook.
-Be sure to CUT the top. 
+
+*Be sure to CUT the top with a sharp knife.*
 
 Place in static oven (not hot air) with a bowl of water in oven at:
 
-245° for 12'
-195° for 24'
-175° for 12'
-150° ventilated with draft 10' (use cork)
+- 245° for 12'
+- 195° for 24'
+- 175° for 12'
+- 150° ventilated with draft 10' (use cork)
 
 NB: Can also do all the folds on the second day: knead and let rise all night and in the morning make the folds three every half hour and with the fourth, give the shape and leave on the floured baking sheet for half an hour, then continue as above.
 
@@ -59,11 +56,11 @@ https://www.youtube.com/watch?v=C9p74DVxw8A&t=1s
 
 For a 940g loaf (2x 470) you will need:
 
-250 g white flour and 250 g Semola. 
-400 ml water at 25 °
-80g of doubled liquid mother yeast (or 2g of fresh beer yeast)
-10g fine salt
-1 teaspoon honey
+- 250 g white flour and 250 g Semola. 
+- 400 ml water at 25 °
+- 80g of doubled liquid mother yeast (or 2g of fresh beer yeast)
+- 10g fine salt
+- 1 teaspoon honey
 
 Time: 3h + 90' + 1h + 2x45' = 7h + 12-18h + 30' + 30'
 
@@ -111,7 +108,7 @@ Oven cooking at 230/240 ° for 30 minutes with lid.
 (Cover the bread in the oven with a metal lid or pot for the first 30'.)
 Alternative: put oven in humid mode for first 30', and place two oven-proof bowls of water. ext to the loaf. Remove the bowls and switch to regular heat at 180 after first 30'. 
 
-Remove lid and LOWER TEMPERATURE to 180 °.
+Remove lid and *lower temperature* to 180 °.
 Finish cooking for another 30 minutes.
 
 ---
@@ -122,6 +119,8 @@ Finish cooking for another 30 minutes.
 
 Leave discard in fridge for two days. Take out for two hours before using.
 
+(Missing rest of recipe.)
+
 # Ciabattine
 
 - 50 g discard
@@ -129,5 +128,6 @@ Leave discard in fridge for two days. Take out for two hours before using.
 
 let rise in oven with light on to triple volume in 4-6 hours
 
+(Missing rest of recipe.)
 
 ---
