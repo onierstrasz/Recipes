@@ -4,10 +4,7 @@ AKA Cecina, Socca
 
 This is a traditional recipe from Nice, but the same thing can be found in Italy as far away as Tuscany under the name of "Cecina". Typically eaten as a snack or an antipasto. In Pisa it is also eaten in a sandwich of bread made from pizza dough, known as "Fritella con Cecina". Around Livorno it is also known as "5 e 5" — because after WW II it was an inexpensive meal, the bread costing 5 cents, and the cecina costing another 5 cents.
 
-
-
 ## Ingredients:
-
 
 - 200 g gram (chick pea) flour
 - 600 g water

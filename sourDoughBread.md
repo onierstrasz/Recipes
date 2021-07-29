@@ -8,12 +8,12 @@ Here follow several recipes for sourdough bread and grissini.
 
 This is a variant of the "pane di Matera"recipe.
 
-Sourdough yeast 150 gr
-Semola flour 350 gr
-White flour 150 gr
-Water 350 ml
-Salt 13 gr
-Sugar or honey 1 tablespoon
+- Sourdough yeast 150 gr
+- Semola flour 350 gr
+- White flour 150 gr
+- Water 350 ml
+- Salt 13 gr
+- Sugar or honey 1 tablespoon
 
 Try a smaller loaf with half and half flour and semola
 200 g each flour and semola, 120 g yeast, 240 ml water, 10 g salt
@@ -117,14 +117,16 @@ Finish cooking for another 30 minutes.
 ---
 # Grissini
 
-200 g discard
-300 g flour 0
+- 200 g discard
+- 300 g flour 0
 
 Leave discard in fridge for two days. Take out for two hours before using.
 
 # Ciabattine
-50 g discard
-100 g flour
+
+- 50 g discard
+- 100 g flour
+
 let rise in oven with light on to triple volume in 4-6 hours
 
 

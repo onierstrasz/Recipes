@@ -47,4 +47,5 @@ Used large pan and nearly 3 l of oil.
 Next time use smaller pan and 2 litres. 
 
   
+![Oliebollen](images/oliebollen.jpeg)
 

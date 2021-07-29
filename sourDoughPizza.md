@@ -1,12 +1,12 @@
 # Fast-rising Pizza
 
-Four 4 pizzas
+Four pizzas
 
-500 g flour
-350 ml H2O
-13 g salt
-teaspoon sugar
-100 g sourdough yeast discard (60-70% hydration) or more ...
+- 500 g flour
+- 350 ml H2O
+- 13 g salt
+- teaspoon sugar
+- 100 g sourdough yeast discard (60-70% hydration) or more ...
 
 Remove the discard from the fridge.
 Let sit in closed jar for 2 hours to reach room temperature.
@@ -28,12 +28,12 @@ Transfer to a cooking tray with a bit of semola. Prepare and cook in oven 15' at
 
 (Adapt ingredients to taste.)
 
-Tomato sauce
-Mozzarella
-Mushrooms
-Spicy sausage
-Olives
-Rucola (rocket)
+- Tomato sauce
+- Mozzarella
+- Mushrooms
+- Spicy sausage
+- Olives
+- Rucola (rocket)
 
 Prepare tomato sauce
 
@@ -69,3 +69,5 @@ Q? 20' at 200°, 10'et 180°, 10' "a spiffero" ?
 ---
 
 1 pizza 25-40 g yeast
+
+---

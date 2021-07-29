@@ -16,9 +16,10 @@ Separate into portions of 100 - 200 g.
 
 
 Divide the starter into three jars (one small, two large), for 
-(1) 150g yeast for pizza dough to use now (small jar),
-(2) 100g refreshed starter (large),
-(3) remaining yeast to use in a few days (large). eg 100 g for bread or grissini
+
+1. 150g yeast for pizza dough to use now (small jar),
+2. 100g refreshed starter (large),
+3. remaining yeast to use in a few days (large). eg 100 g for bread or grissini
 
 
 Push down dough with wet fingers and mark level of dough in jar with elastic band. 
@@ -38,15 +39,17 @@ In other recipes it is not. Instead you refresh what you need and “discard” 
 
 
 Sample amounts 
-Bread 100
-Pizza 80
-Grissini 150
-Starter 200-250
+
+- Bread 100
+- Pizza 80
+- Grissini 150
+- Starter 200-250
 
 ---
 
 started with 100 -> 270
-1 pizza 30
-1 400 g bread 120
-leftover 120
+
+- 1 pizza 30
+- 1 400 g bread 120
+- leftover 120
 
