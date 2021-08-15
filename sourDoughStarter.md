@@ -10,7 +10,7 @@ Open the jar and refresh it: add an equal amount of flour, and 50-100% of water,
 
 First mix in lukewarm water slowly with spatula, then stir in flour. 
 
-Suppose plan to make pizza and we have 250g of starter, to which we add 250g white flour and 175ml water (70%).
+Suppose we plan to make pizza and we have 250g of starter, to which we add 250g white flour and 175ml water (70%).
 
 Separate into portions of 100 - 200 g. 
 
@@ -53,3 +53,11 @@ started with 100 -> 270
 - 1 400 g bread 120
 - leftover 120
 
+120 -> 320
+
+115 +115 + 80 = 310
+
+
+- 2 pizzas 60
+- grissini 125
+- leftover 125

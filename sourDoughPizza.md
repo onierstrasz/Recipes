@@ -6,7 +6,7 @@ Four pizzas
 - 350 ml H2O
 - 13 g salt
 - teaspoon sugar
-- 100 g sourdough yeast discard (60-70% hydration) or more ...
+- 100-160 g sourdough yeast discard (60-70% hydration) 
 
 Remove the discard from the fridge.
 Let sit in closed jar for 2 hours to reach room temperature.
@@ -24,6 +24,16 @@ Cover with a tea towel and leave in oven until the dough doubles in size (˜2-4 
 Transfer to a cooking tray with a bit of semola. Prepare and cook in oven 15' at 250°.
 
 ---
+# Dry yeast alternative
+
+Use 7 g dry yeast for 500 g flour.
+Dissolve the yeast in some warm water and a teaspoon of water.
+Let stand until it foams up.
+Continue as above.
+
+https://www.cookist.com/pizza-with-dry-yeast-how-to-make-the-dough-with-the-right-suggestions-and-tips/
+
+---
 # Pizza
 
 (Adapt ingredients to taste.)
@@ -31,6 +41,7 @@ Transfer to a cooking tray with a bit of semola. Prepare and cook in oven 15' at
 - Tomato sauce
 - Mozzarella
 - Mushrooms
+- Onions
 - Spicy sausage
 - Olives
 - Rucola (rocket)
@@ -44,10 +55,15 @@ Chop and strain mozzarella
 Strain olives
 Wash and dry rocket
 
+If using a pizza stone, heat it to 230° for 30 m first. 
+(25-40 m at 225-250°.)
+
 Stretch the pizza dough.
 Take out the hot pizza stone (or tray). Dust with semola or flour.
 Place the pizza on the stone.
 Spread tomato sauce and other ingredients (except mozzarella and rocket).
+
+
 
 Cook 10', then add mozzarella.
 Cook for another 5'.
@@ -65,9 +81,5 @@ NB: Do this just before taking out the pizza stone/tray from the oven so it stay
 https://gql.masterclass.com/articles/how-to-stretch-pizza-dough#4-tips-for-stretching-pizza-dough
 
 Q? 20' at 200°, 10'et 180°, 10' "a spiffero" ?
-
----
-
-1 pizza 25-40 g yeast
 
 ---
