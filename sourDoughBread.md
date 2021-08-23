@@ -15,12 +15,12 @@ This is a variant of the "pane di Matera" recipe.
 - Salt 13 gr
 - Sugar or honey 1 tablespoon
 
-Try a smaller loaf with half and half flour and semola
-200 g each flour and semola, 120 g yeast, 240 ml water, 10 g salt
+
+* Try to add 1/2 teaspoon bicarbonate to make fluffier bread.
 
 Hydrolyze the flour (but not the semola) with part of the water taken from the total (of 350 ml) for at least 1 hour.
 
-Also dissolve the salt some of the water, and set aside.
+Also dissolve the salt in some of the water, and set aside.
 
 Mix with the sourdough diluted in the remaining water and sugar, knead well (can use a machine) and then add the diluted salt.
 
@@ -28,6 +28,8 @@ Then make 3 folds every 1/2 hour in the bowl.
 Can make the folds below (slap and fold). 
 
 Leave it overnight in the covered bowl room temperature (or in the fridge and in this case in the morning leave it 3 hours out).
+
+NB: Put the dough in a bread basket, covered with a tea towel, to give it shape.
 
 In the morning, transfer the dough to a pastry board (dusted with a bit of flour).
 Fold again three times in 30 m intervals.
@@ -45,6 +47,15 @@ Place in static oven (not hot air) with a bowl of water in oven at:
 - 150° ventilated with draft 10' (use cork)
 
 NB: Can also do all the folds on the second day: knead and let rise all night and in the morning make the folds three every half hour and with the fourth, give the shape and leave on the floured baking sheet for half an hour, then continue as above.
+
+[Tried a smaller loaf with half and half flour and semola
+200 g each flour and semola, 120 g yeast, 240 ml water, 10 g salt
+but still too heavy.]
+
+* In this recipe for fluffy bread, the dough stays in the fridge for 18 hours, then rises out of the fridge for another 2-3 hours, but without any further folding.
+
+http://pandipane.blogspot.com/2013/03/un-pane-molti-buchi-proprio-come-piace.html
+
 
 ---
 # Open Sourdough bread
@@ -128,6 +139,27 @@ Leave discard in fridge for two days. Take out for two hours before using.
 
 let rise in oven with light on to triple volume in 4-6 hours
 
+Cook at 250° for 8 minutes in humid oven.
+Another 8 m at 200°.
+Finally 3-4 m with oven partially open (with cork or spoon). 
+
 (Missing rest of recipe.)
+
+---
+# Panini
+
+Try with ingredients above but end of procedure as described here:
+
+https://ricette.giallozafferano.it/Panini-con-lievito-madre.html
+
+Separate the 1 kg of dough into 2 parts: ~800 g for the loaf of bread and 200 g for 4 panini. Put the 800 g loaf in a basket in the fridge for 18 hours, and let the 200 g rise at room temp for 12 hours.
+
+After the dough has risen for 12 hours at room temperature, fold twice to reinforce.
+Cover and let rest for 30 m.
+Flatten gently and cut into four pieces.
+Let rise for 1 h. 
+Dust lightly with flour.
+Cook for 40m at 240°. ?!
+
 
 ---

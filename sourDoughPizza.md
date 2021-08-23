@@ -8,6 +8,8 @@ Four pizzas
 - teaspoon sugar
 - 100-160 g sourdough yeast discard (60-70% hydration) 
 
+(Normally use pizza flour from Aldi, but white Coop flour works too)
+
 Remove the discard from the fridge.
 Let sit in closed jar for 2 hours to reach room temperature.
 Open the jar and let the starter double in size for 4 hours.
