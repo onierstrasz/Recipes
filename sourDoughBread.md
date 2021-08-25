@@ -156,10 +156,12 @@ Separate the 1 kg of dough into 2 parts: ~800 g for the loaf of bread and 200 g 
 
 After the dough has risen for 12 hours at room temperature, fold twice to reinforce.
 Cover and let rest for 30 m.
-Flatten gently and cut into four pieces.
+Flatten gently and cut into four pieces. [too small?]
 Let rise for 1 h. 
 Dust lightly with flour.
-Cook for 40m at 240°. ?!
+Cook for 40m at 240°. (or use the usual cooking times)
 
+
+*NB* 50g per bun seems too small. Try 100g or something in between.
 
 ---
