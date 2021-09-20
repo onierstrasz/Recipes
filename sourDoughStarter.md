@@ -1,7 +1,5 @@
 # Sourdough yeast starter
 
-CHECK AND UPDATE THIS
-
 
 Take the yeast out of the fridge and let it sit in the closed jar for at least 2 hours to double in size. 
 
@@ -47,19 +45,10 @@ Sample amounts
 
 ---
 
-started with 100 -> 270
-
-- 1 pizza 30
-- 1 400 g bread 120
-- leftover 120
-
 120 -> 320
 
-115 +115 + 80 = 310
-
-
-- 2 pizzas 60
-- grissini 125
-- leftover 125
+- 1 pizza 40
+- 8 panini 120
+- starter 140
 
 

@@ -15,6 +15,7 @@
 - horseradish cream
 
 190 g potatoes makes 16 blinis
+108 g makes 11
 
 melt butter at lowest temperature
 grate potatoes finely, or run through a food processor

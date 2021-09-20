@@ -9,8 +9,8 @@ Here follow several recipes for sourdough bread and grissini.
 This is a variant of the "pane di Matera" recipe.
 
 - Sourdough yeast 150 gr
-- Semola flour 350 gr
 - White flour 150 gr
+- Semola flour 350 gr
 - Water 350 ml
 - Salt 13 gr
 - Sugar or honey 1 tablespoon
@@ -152,16 +152,33 @@ Try with ingredients above but end of procedure as described here:
 
 https://ricette.giallozafferano.it/Panini-con-lievito-madre.html
 
-Separate the 1 kg of dough into 2 parts: ~800 g for the loaf of bread and 200 g for 4 panini. Put the 800 g loaf in a basket in the fridge for 18 hours, and let the 200 g rise at room temp for 12 hours.
+Make 800 g dough for 8 panini as above
 
-After the dough has risen for 12 hours at room temperature, fold twice to reinforce.
+- Sourdough yeast 120 gr
+- White flour 120 gr
+- Semola flour 280 gr
+- Water 280 ml
+- Salt 10 gr
+- Sugar or honey 1 tablespoon
+- 1/2 tspn bicarbonate of soda
+
+Preprare dough as above: hydrolyze the white flour with half of the water for 1 hour; dissolve salt in a bit of the water. After an hour dissolve the starter in the water, mix with the flour, semola and honey. Knead in the machine, add the salty water, and continue to knead till "springy". (About 3-minutes kneading.) Fold in a bowl every half hour for three times. Wet hands with water or oil to fold. Cover bowl and let dough rise for 12 hours at room temperature. (To make bread, instead put in a basket in the fridge.)
+
+After the dough has risen for 12 hours at room temperature, divide in two parts.
+Fold each above and below twice to reinforce.
 Cover and let rest for 30 m.
-Flatten gently and cut into four pieces. [too small?]
+[I left out this step and directly divided into 8 buns, to let the buns rise for 1 hour covered in the oven before cooking.]
+Flatten gently and cut each half into four pieces.
 Let rise for 1 h. 
 Dust lightly with flour.
-Cook for 40m at 240°. (or use the usual cooking times)
+Score tops of the buns!
 
+Cook for 40m at 240°. (Too much.)
 
-*NB* 50g per bun seems too small. Try 100g or something in between.
+This recipe says to let rise in oven for 2-3 hours, then cook at 220º for 10-15 m and at 180º for another 15 m.
+
+Tried 220° for 15', 180° for 10' and 150° with oven ajar for 5'. 
+
+https://www.ricettedalmondo.it/panini-rustici-con-lievito-madre.html
 
 ---

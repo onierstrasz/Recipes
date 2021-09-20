@@ -2,7 +2,7 @@
 
 Four pizzas
 
-- 500 g flour
+- 500 g flour (pizza flour)
 - 350 ml H2O
 - 13 g salt
 - teaspoon sugar
@@ -65,10 +65,8 @@ Take out the hot pizza stone (or tray). Dust with semola or flour.
 Place the pizza on the stone.
 Spread tomato sauce and other ingredients (except mozzarella and rocket).
 
-
-
-Cook 10', then add mozzarella.
-Cook for another 5'.
+Cook 8-10', then add mozzarella.
+Cook for another 4-5'.
 
 Add rocket, slice and serve.
 
