@@ -16,6 +16,7 @@
 
 190 g potatoes makes 16 blinis
 108 g makes 11
+170 (2 medium) makes 20!
 
 melt butter at lowest temperature
 grate potatoes finely, or run through a food processor
