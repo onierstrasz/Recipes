@@ -57,7 +57,7 @@ Chop and strain mozzarella
 Strain olives
 Wash and dry rocket
 
-If using a pizza stone, heat it to 230° for 30 m first. 
+If using a pizza stone, heat it to 245° for 30 m first. 
 (25-40 m at 225-250°.)
 
 Stretch the pizza dough.
