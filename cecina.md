@@ -20,9 +20,16 @@ OLD: Stir the chick pea flour into the water, add salt to taste and leave the mi
 - Ideally, let the mixture sit for a couple of hours. Skim off any foam that rises to the top.
 - Pour the mixture into a oiled pan (a dedicated 34cm tin-plated copper baking pan is best).
 - Cook in the oven, turning on the grill, and placing the socca close to the grill.
-- Remove from the oven when golden brown (almost burnt in spots) ~6-10 min.
+- Remove from the oven when golden brown ~6-10 min.
 - Slice into pieces and serve immediately. Add olive oil and pepper to taste.
 
+Cook 20 minutes in middle of oven. (230°, no grill)
+Take out and separate cecina from the pan with a spatula.
+Slice into quarters and add a bit more olive oil on top and along the sides and cuts.
+Return to oven for five more minutes.
+Add the lardo, and put back in the oven for a minute or two. 
+
+600 g for 2 or 3 people.
 
 For four people: a flat-bottomed copper baking tray and edges about 3cm high. 250 g of chick pea (gram) flour; 750 ml of water; salt and pepper.
 
