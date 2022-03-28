@@ -50,15 +50,13 @@ https://www.cookist.com/pizza-with-dry-yeast-how-to-make-the-dough-with-the-righ
 
 Prepare tomato sauce
 
-Heat Pizza stone to 230° with Pizza Plus mode for 30-40'.
+Heat Pizza stone to 245° with Pizza Plus mode for 30-40'.
+(25-40 m at 225-250°.)
 
 Slice mushrooms and sausage
 Chop and strain mozzarella
 Strain olives
 Wash and dry rocket
-
-If using a pizza stone, heat it to 245° for 30 m first. 
-(25-40 m at 225-250°.)
 
 Stretch the pizza dough.
 Take out the hot pizza stone (or tray). Dust with semola or flour.
