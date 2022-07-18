@@ -38,8 +38,8 @@ In other recipes it is not. Instead you refresh what you need and “discard” 
 
 Sample amounts 
 
-- Bread 100
-- Pizza 80
+- Bread 100 - 150
+- Pizza 80 - 150
 - Grissini 150
 - Starter 200-250
 
