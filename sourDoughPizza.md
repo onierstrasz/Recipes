@@ -12,18 +12,20 @@ Four pizzas
 
 Remove the discard from the fridge.
 Let sit in closed jar for 2 hours to reach room temperature.
+
 Open the jar and let the starter double in size for 4 hours.
 (Alternatively use frozen yeast, refresh 3x, and then let double in size for 4 hours.)
 
 Add to the yeast the water, flour, salt and sugar. 
 Knead (possibly with the machine).
+If dough is too sticky, add a bit of flour while kneading. 
 Shape into a ball. Sprinkle some olive oil on top, and put in the fridge for 2-3 hours.
 NB: alternatively leave at room temperature (for how long?).
 
 Divide into 4 balls and place on a cooking sheet.
 Cover with a tea towel and leave in oven until the dough doubles in size (˜2-4 hours).
 
-Transfer to a cooking tray with a bit of semola. Prepare and cook in oven 15' at 250°.
+Prepare and cook in oven 15' at 250°.
 
 ---
 # Dry yeast alternative

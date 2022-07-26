@@ -162,7 +162,7 @@ Make 800 g dough for 8 panini as above
 - Sugar or honey 1 tablespoon
 - 1/2 tspn bicarbonate of soda
 
-Preprare dough as above: hydrolyze the white flour with half of the water for 1 hour; dissolve salt in a bit of the water. After an hour dissolve the starter in the water, mix with the flour, semola and honey. Knead in the machine, add the salty water, and continue to knead till "springy". (About 3-minutes kneading.) Fold in a bowl every half hour for three times. Wet hands with water or oil to fold. Cover bowl and let dough rise for 12 hours at room temperature. (To make bread, instead put in a basket in the fridge.)
+Prepare dough as above: hydrolyze the white flour with half of the water for 1 hour; dissolve salt in a bit of the water. After an hour dissolve the starter in the water, mix with the flour, semola and honey. Knead in the machine, add the salty water, and continue to knead till "springy". (About 3-minutes kneading.) Fold in a bowl every half hour for three times. Wet hands with water or oil to fold. Cover bowl and let dough rise for 12 hours at room temperature. (To make bread, instead put in a basket in the fridge.)
 
 After the dough has risen for 12 hours at room temperature, divide in two parts.
 Fold each above and below twice to reinforce.
