@@ -1,5 +1,7 @@
 # Fast-rising Pizza
 
+Time: 10-13 hours
+
 Four pizzas
 
 - 500 g flour (pizza flour)
