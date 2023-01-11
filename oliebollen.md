@@ -11,7 +11,7 @@ Oliebollen (OH-lee-boh-len) are a sort of Dutch donut filled with fruit. It's tr
 - 1.5 cc / 4 tsp. yeast
 - 1 kg / 8 cups flour (all-purpose)
 - 1 l. milk
-- 2-3 l. deep-frying oil (e.g. grape-seed or sunflower)
+- 2 l. deep-frying oil (e.g. grape-seed or sunflower)
 - 200 g / 6 oz. icing sugar 
 
 Yields 50.
@@ -37,14 +37,17 @@ Deep fryer (or a big heavy pot), large bowl, wooden spoon, ice-cream scoop, meta
 Last update: 2002-10-19
 
 2020-12-23
-Put dough in oven with light on to rise. (Half portion.)
+Put dough in oven with light on to rise or at 35°. (Half portion.)
 
-Heat oil on induction range at 6. Alternate between 5 and 6 to maintain heat. 
-Made a half portion, but had to add sone extra milk.
-Also took 90" for the dough to rise sufficiently. 
+Put 2 l oil in medium large pan. 
+Heat oil on induction range at 5 with lid on. Use front left burner. 
+After adding first batch, raise to 6, or alternate between 5 and 6. 
 
-Used large pan and nearly 3 l of oil. 
-Next time use smaller pan and 2 litres. 
+
+For a half portion, add some extra milk.
+Takes 90" for the dough to rise sufficiently. 
+
+
 
   
 ![Oliebollen](images/oliebollen.jpeg)

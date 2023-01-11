@@ -28,3 +28,10 @@ Keep warm in oven at 50°C.
 Eat with smoked salmon and horseradish cream. 
 
 ---
+
+Variant:
+
+Use 2 small potatoes or 1 medium.
+Just 25 g flour + 25 g potato starch.
+Just 1 egg. 25 g butter.
+
