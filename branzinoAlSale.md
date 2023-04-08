@@ -1,3 +1,7 @@
+---
+title: Branzino al sale con salsina di pomodoro
+permalink: /branzinoAlSale/
+---
 # Branzino al sale con salsina di pomodoro
 
 ## Ingredienti

@@ -1,3 +1,7 @@
+---
+title: Torta di mele d'Anna Pesserotti
+permalink: /tortaDiMele/
+---
 # Torta di mele d'Anna Pesserotti
 
 ##Ingredients

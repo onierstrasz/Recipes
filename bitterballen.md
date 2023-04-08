@@ -1,5 +1,8 @@
-
-# Kalfsvleeskroketten en bitterballen 
+---
+title: Bitterballen 
+permalink: /bitterballen/
+---
+# Bitterballen 
 
 16 stuks 
 

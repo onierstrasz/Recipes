@@ -1,3 +1,7 @@
+---
+title: Hasselback Potatoes
+permalink: /hasselbackPotatoes/
+---
 # Hasselback Potatoes
 
 - baking potatoes (starchy)

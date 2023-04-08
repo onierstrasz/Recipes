@@ -1,3 +1,7 @@
+---
+title: Duke's Oliebollen
+permalink: /oliebollen/
+---
 # Duke's Oliebollen
 
 Oliebollen (OH-lee-boh-len) are a sort of Dutch donut filled with fruit. It's traditional to make them around Sinterklaas (St. Nicholas Day — Dec. 5) and New Years. They're very simple to make, but take about 3 hours of work. Since they are a yeast bread, it's best to eat them cold. They are not overly sweet, so they make a good snack. (I've often had them for breakfast.) They last a long time and will keep in a cool place (i.e. a windowsill). You can fool around with the ingredients a bit but be sure to get the yeast, flour and milk right. The apples are important so they'll stay moist. Note that there are no spices required. Feel free to add cinnamon or anything else appropriate.

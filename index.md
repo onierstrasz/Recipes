@@ -1,1 +1,3 @@
 # Recipes
+
+See [contents](/contents)

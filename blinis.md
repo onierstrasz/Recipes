@@ -1,3 +1,7 @@
+---
+title: Potato blinis
+permalink: /blinis/
+---
 # Potato blinis
 
 ## Ingredients (for two people)

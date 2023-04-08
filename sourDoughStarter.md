@@ -1,3 +1,7 @@
+---
+title: Sourdough yeast starter
+permalink: /sourDoughStarter/
+---
 # Sourdough yeast starter
 
 

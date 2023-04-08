@@ -1,3 +1,7 @@
+---
+title: Oven Fries
+permalink: /ovenFries/
+---
 # Oven Fries
 
 Garlic burns. Try to put in oven during last ten minutes. 

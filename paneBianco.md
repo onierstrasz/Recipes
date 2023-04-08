@@ -1,3 +1,7 @@
+---
+title: Pane bianco ricetta veloce di Misya
+permalink: /paneBianco/
+---
 # Pane bianco ricetta veloce di Misya
 
 ## Ingredienti:

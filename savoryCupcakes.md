@@ -1,3 +1,7 @@
+---
+title: Savory cupcakes
+permalink: /savoryCupcakes/
+---
 # Savory cupcakes
 
 ## Ingredients

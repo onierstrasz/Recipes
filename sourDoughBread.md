@@ -1,5 +1,8 @@
 ---
-# Sourdough bread recipes
+title: Sourdough bread
+permalink: /sourDoughBread/
+---
+# Sourdough bread
 
 Here follow several recipes for sourdough bread and grissini.
 

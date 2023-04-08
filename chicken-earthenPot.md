@@ -1,3 +1,7 @@
+---
+title: Chicken in Earthen Pot (Römertopf)
+permalink: /chicken-earthenPot/
+---
 # Chicken in Earthen Pot (Römertopf)
 
 ## Ingredients

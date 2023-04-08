@@ -1,3 +1,7 @@
+---
+title: La Farinata
+permalink: /cecina/
+---
 # La Farinata
 
 AKA Cecina, Socca
