@@ -1,3 +1,3 @@
 # Recipes
 
-See [contents](/contents)
+See [contents](/Recipes/contents)

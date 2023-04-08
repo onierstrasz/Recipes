@@ -1,5 +1,6 @@
 ---
 title: Sourdough bread
+permalink: /sourDoughBread
 ---
 # Sourdough bread
 
