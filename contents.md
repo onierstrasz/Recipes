@@ -1,6 +1,6 @@
 ---
 title: "Contents"
-permalink: /contents
+permalink: /contents/
 ---
 - [Bitterballen ](/Recipes/bitterballen)
 - [Potato blinis](/Recipes/blinis)
