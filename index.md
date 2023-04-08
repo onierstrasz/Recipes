@@ -2,6 +2,7 @@
 title: "Recipes"
 permalink: /
 ---
+# Recipes
 - [Bitterballen ](/Recipes/bitterballen)
 - [Potato blinis](/Recipes/blinis)
 - [Branzino al sale con salsina di pomodoro](/Recipes/branzinoAlSale)
