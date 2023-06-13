@@ -27,3 +27,6 @@ permalink: /tortaDiMele/
 
 Add 5-10' if not cooked (test with a toothpick)
 Variant: add 50 g crushed walnuts
+
+Can use Granny or Goldeb apples if Boskoop not available.
+
