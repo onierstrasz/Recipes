@@ -12,7 +12,7 @@ This is a traditional recipe from Nice, but the same thing can be found in Italy
 
 - 200 g gram (chick pea) flour
 - 600 g water
-- 1 tsp salt (5 g)
+- 1 tsp salt (2-2.5g salt per 100g flour)
 - 3-4 tbsp olive oil.
 
 ## Instructions
