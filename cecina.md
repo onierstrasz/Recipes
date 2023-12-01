@@ -27,6 +27,8 @@ OLD: Stir the chick pea flour into the water, add salt to taste and leave the mi
 - Remove from the oven when golden brown ~6-10 min.
 - Slice into pieces and serve immediately. Add olive oil and pepper to taste.
 
+NEW:
+
 Cook 20 minutes in middle of oven. (230°, no grill)
 Take out and separate cecina from the pan with a spatula.
 Slice into quarters and add a bit more olive oil on top and along the sides and cuts.
