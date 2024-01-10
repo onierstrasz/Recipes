@@ -41,10 +41,11 @@ Deep fryer (or a big heavy pot), large bowl, wooden spoon, ice-cream scoop, meta
 Last update: 2002-10-19
 
 2020-12-23
+Instructions at home. 
 Put dough in oven with light on to rise or at 35°. (Half portion.)
 
-Put 2 l oil in medium large pan. 
-Heat oil on induction range at 5 with lid on. Use front left burner. 
+Put 2 l oil in medium large pan. (Even 1.5 l is ok.)
+Heat oil on induction range at 5 with lid on for about 20m. Use front left burner. 
 After adding first batch, raise to 6, or alternate between 5 and 6. 
 
 
