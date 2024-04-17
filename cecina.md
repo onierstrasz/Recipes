@@ -27,6 +27,12 @@ OLD: Stir the chick pea flour into the water, add salt to taste and leave the mi
 - Remove from the oven when golden brown ~6-10 min.
 - Slice into pieces and serve immediately. Add olive oil and pepper to taste.
 
+TO TRY:
+
+Heat the pan with oil for a few minutes before pouring in the batter. 
+Cook for 30" and then let it cool a bit to separate the Cecina from the pan. 
+
+
 NEW:
 
 Cook 20 minutes in middle of oven. (230°, no grill)
