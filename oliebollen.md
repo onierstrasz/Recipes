@@ -48,9 +48,13 @@ Put 2 l oil in medium large pan. (Even 1.5 l is ok.)
 Heat oil on induction range at 5 with lid on for about 20m. Use front left burner. 
 After adding first batch, raise to 6, or alternate between 5 and 6. 
 
-
 For a half portion, add some extra milk.
 Takes 90" for the dough to rise sufficiently. 
+
+2024-12-24 NB: new induction range
+Heat oil on induction range at 7 with lid on for about 20m to 130°C. Use front left burner. Alternate between 7 and 8 if necessary. 
+
+
 
 
 
