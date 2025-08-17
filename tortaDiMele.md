@@ -10,9 +10,9 @@ permalink: /tortaDiMele/
 - 100 g sugar (or 75 g)
 - 100 g flour
 - 100 g butter
-- 1/2 packet baking powder [for cakes]
+- 1/2 packet baking powder (for cakes)
 - 1 egg
-- 1 small glass liqueur [e.g. rum]
+- 1 small glass liqueur (e.g. rum)
 - cinnamon
 
 ## Instructions
