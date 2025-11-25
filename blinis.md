@@ -6,19 +6,19 @@ permalink: /blinis/
 
 ## Ingredients (for two people)
 
-- 2 medium (or small) potatoes (~1 per person)
+- 200 g potatoes
+- 40g flour (50 g too starchy)
+- 25g corn starch (~25 g)
+- 1/2 packet baking powder
 - 2 eggs
-- flour (~ 50 g)
-- corn starch (~25 g)
-- melted butter (50g)
+- 40g melted butter
 - 1 coffee cream (table spoon) or some warm milk
 - pinch or two of salt
 - chives or green onion
-- baking powder (1/2 packet)
 - smoked salmon
-- horseradish cream
+- horseradish cream (optional with Mayonnaise)
 
-190 g (2 medium) potatoes makes 16-20 blinis
+200 g (2-3 small-medium) potatoes makes 14 medium blinis
 
 Melt butter at lowest temperature.
 Grate potatoes finely, or run through a food processor.
