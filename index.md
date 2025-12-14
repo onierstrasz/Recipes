@@ -13,6 +13,7 @@ A collection of random recipes from various sources.
 - [Bitterballen ](/Recipes/bitterballen)
 - [Cantonese Chicken Wings](/Recipes/cantoneseChickenWings)
 - [Chicken in Earthen Pot (Römertopf)](/Recipes/chicken-earthenPot)
+- [Dim Sum Terminology](/Recipes/dimsum)
 - [Duke's Oliebollen](/Recipes/oliebollen)
 - [Fast-rising Pizza](/Recipes/sourDoughPizza)
 - [Hasselback Potatoes](/Recipes/hasselbackPotatoes)
