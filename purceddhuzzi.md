@@ -30,6 +30,5 @@ permalink: /purceddhuzzi/
 - Rigirarli un po' e poi versarli in un piatto piano.
 - Guarnirli con anisini, pinoli, pezzettini di cannella sbriciolati.
 - Spolverare con zucchero.
-
 - Per 1/2 kg ~ 2 ore di lavoro e 1/2 l di olio. Per ogni tipo, ~ 5 min. di cottura. 1 piatto grande e 1 medio.
 - Con 1 kg: 1 piatto grande, 3 medi, 1 piccolo
