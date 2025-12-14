@@ -17,12 +17,14 @@ A collection of random recipes from various sources.
 - [Duke's Oliebollen](/Recipes/oliebollen)
 - [Fast-rising Pizza](/Recipes/sourDoughPizza)
 - [Hasselback Potatoes](/Recipes/hasselbackPotatoes)
+- [Lemon marinade for Lamb](/Recipes/lemonMarinade)
 - [Oven Fries](/Recipes/ovenFries)
 - [Party Sushi](/Recipes/partySushi)
 - [Potato blinis](/Recipes/blinis)
 - [Savory cupcakes](/Recipes/savoryCupcakes)
 - [Sourdough bread](/Recipes/sourDoughBread)
 - [Sourdough yeast starter](/Recipes/sourDoughStarter)
+- [Tuna pasta](/Recipes/tunapasta)
 
 ## Italian
 

@@ -99,3 +99,5 @@ Dim Sum are generally served 3 or 4 to a plate. I find I can eat about 6 to 10 D
 - *Up Cheung* - braised duck web seasoned with oyster sauce
 - *Wor Tip* - fried dumpling filled with meat sauce & lined with pork
 - *Yuan Dun Foo* - bean curd with pork & shrimp or other meat
+
+---
