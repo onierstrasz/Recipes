@@ -13,6 +13,7 @@ permalink: /
 - [Oven Fries](/Recipes/ovenFries)
 - [Pane bianco ricetta veloce di Misya](/Recipes/paneBianco)
 - [Party Sushi](/Recipes/partySushi)
+- [Purceddhuzzi di Oma Gina](/Recipes/purceddhuzzi)
 - [Savory cupcakes](/Recipes/savoryCupcakes)
 - [Sourdough bread](/Recipes/sourDoughBread)
 - [Fast-rising Pizza](/Recipes/sourDoughPizza)
