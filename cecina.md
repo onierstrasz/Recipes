@@ -1,10 +1,10 @@
 ---
-title: La Farinata
+title: Cecina
 permalink: /cecina/
 ---
-# La Farinata
+# Cecina
 
-AKA Cecina, Socca
+AKA Farinata, Socca
 
 This is a traditional recipe from Nice, but the same thing can be found in Italy as far away as Tuscany under the name of "Cecina". Typically eaten as a snack or an antipasto. In Pisa it is also eaten in a sandwich of bread made from pizza dough, known as "Fritella con Cecina". Around Livorno it is also known as "5 e 5" — because after WW II it was an inexpensive meal, the bread costing 5 cents, and the cecina costing another 5 cents.
 
@@ -27,19 +27,18 @@ OLD: Stir the chick pea flour into the water, add salt to taste and leave the mi
 - Remove from the oven when golden brown ~6-10 min.
 - Slice into pieces and serve immediately. Add olive oil and pepper to taste.
 
-TO TRY:
+## TO TRY:
 
 Heat the pan with oil for a few minutes before pouring in the batter. 
 Cook for 30" and then let it cool a bit to separate the Cecina from the pan. 
 
+## NEW:
 
-NEW:
-
-Cook 20 minutes in middle of oven. (230°, no grill)
-Take out and separate cecina from the pan with a spatula.
-Slice into quarters and add a bit more olive oil on top and along the sides and cuts.
-Return to oven for five more minutes.
-Add the lardo, and put back in the oven for a minute or two. 
+- Cook 20 minutes in middle of oven. (230°, no grill)
+- Take out and separate cecina from the pan with a spatula.
+- Slice into quarters and add a bit more olive oil on top and along the sides and cuts.
+- Return to oven for five more minutes.
+- Add the lardo, and put back in the oven for a minute or two. 
 
 600 g for 2 or 3 people.
 
@@ -50,10 +49,9 @@ www.casadellecartoline.it
 ---
 
 Hints:
+
 - be sure to sieve the gram flour before mixing in the water.
 - for a crispier cecina, (1) add 2-3 tbspn oil to the flour before mixing in water, and (2) reduce the quantity to 200g gram flour and 600 ml water.
 - if you can get your hands on it, add extremely thinly sliced lardo on top of the cooked cecina (http://en.wikipedia.org/wiki/Lardo)
-
-http://www.facebook.com/notes/oscar-nierstrasz/la-farinata-aka-cecina-aka-socca/10150308937602100
 
 ---

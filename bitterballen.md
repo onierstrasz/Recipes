@@ -7,6 +7,7 @@ permalink: /bitterballen/
 16 stuks 
 
 ## Ingredïenten: 
+
 VOOR DE BOUILLON EN DE VLEESVULLING: 
 
 - 500 gram kalfspoelet 
