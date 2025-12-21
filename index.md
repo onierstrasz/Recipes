@@ -44,7 +44,6 @@ A collection of random recipes from various sources.
 - [Party Sushi](/Recipes/partySushi)
 - [Potato blinis](/Recipes/blinis)
 
-
 # Sweets
 
 - [Duke's Oliebollen](/Recipes/oliebollen) (Dutch deep-fried donuts)
