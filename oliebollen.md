@@ -38,26 +38,21 @@ Deep fryer (or a big heavy pot), large bowl, wooden spoon, ice-cream scoop, meta
 - Sprinkle the icing sugar on with the sieve.
 - Eat'em up, yum!
 
-Last update: 2002-10-19
+---
+## Tips 
 
-2020-12-23
-Instructions at home. 
-Put dough in oven with light on to rise or at 35°. (Half portion.)
+NB: numbers here are for an Electrolux induction range. Experiment for your own range. 
 
-Put 2 l oil in medium large pan. (Even 1.5 l is ok.)
-Heat oil on induction range at 5 with lid on for about 20m. Use front left burner. 
-After adding first batch, raise to 6, or alternate between 5 and 6. 
+- Spread a plastic sheet on the kitchen table to protect it from oil, and cover it with a layer of newspaper and paper towels to put the cooked oliebollen to cool and sprinkle icing sugar 
+- Put dough in oven with light on to rise or at 40°
+- Use 1.5 - 2 l grapeseed oil in medium large pan
+- For a half portion, add some extra milk.
+- NB: Takes 90m (not 60m) for the dough to rise sufficiently. 
+- Heat oil on front left burner at 7 with lid on for about 15m to 130°C. 
+- Alternate between 6 and 8 if necessary. (Increase temperature when you add a new batch, and lower it after a few minutes.)
+- The next day you can reheat the oliebollen in an air fryer for 4-5m at 180°
 
-For a half portion, add some extra milk.
-Takes 90" for the dough to rise sufficiently. 
-
-2024-12-24 NB: new induction range
-Heat oil on induction range at 7 with lid on for about 20m to 130°C. Use front left burner. Alternate between 7 and 8 if necessary. 
-
-
-
-
-
+---
   
 ![Oliebollen](images/oliebollen.jpeg)
 
